@@ -1,0 +1,35 @@
+# Program — Year One Transformation
+
+**Enterprise-wide AI transformation through four 90-day cycles**
+
+---
+
+## Overview
+
+- **Duration:** 12 months (four 90-day cycles)
+- **Investment:** $600,000
+- **Format:** Continuous transformation program
+- **Team:** Dedicated transformation team
+
+---
+
+## Documents
+
+- **[Agenda](agenda.md)** — Client-facing program roadmap
+- **[Playbook](playbook.md)** — Internal operations guide
+
+---
+
+## Purpose
+
+Enterprise-wide AI transformation through four consecutive 90-day cycles that progressively transform the organization into a truly agentic enterprise.
+
+**Four Cycles:**
+1. **Foundation** — Prove & validate core capabilities
+2. **Expansion** — Scale & refine across functions
+3. **Integration** — Optimize & embed into operations
+4. **Transformation** — Enterprise-wide AI adoption (Level 5 maturity)
+
+---
+
+**[← Back to Home](../README.md)**
