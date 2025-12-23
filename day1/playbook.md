@@ -4,20 +4,6 @@
 
 *This playbook contains facilitation scripts, RACI matrices, assessment frameworks, and operational guidance for conducting Day 1 Workshop engagements. Not for client distribution.*
 
-
-<table>
-<tr>
-<td width="60%">
-
-</td>
-<td width="40%" align="right">
-
-[M1](../m1/README.md) | [M2](../m2/README.md) | [M3](../m3/README.md) | [Day 1](../day1/README.md) | [POC](../poc/README.md) | [Pilot](../pilot/README.md) | [Program](../program/README.md) | [Partnership](../partnership/README.md)
-
-</td>
-</tr>
-</table>
-
 ---
 
 **Version:** 1.0  
@@ -680,17 +666,7 @@ Comprehensive SOW including:
 
 **Navigation:** [← Day 1 Home](README.md) | [Main Index](../README.md) | [Previous: Day 1 Agenda ←](agenda.md)
 
+
 ---
 
-<table>
-<tr>
-<td width="60%">
-
-</td>
-<td width="40%" align="right">
-
-[M1](../m1/README.md) | [M2](../m2/README.md) | [M3](../m3/README.md) | [Day 1](../day1/README.md) | [POC](../poc/README.md) | [Pilot](../pilot/README.md) | [Program](../program/README.md) | [Partnership](../partnership/README.md)
-
-</td>
-</tr>
-</table>
+**Navigation:** [M1](../m1/README.md) | [M2](../m2/README.md) | [M3](../m3/README.md) | [Day 1](../day1/README.md) | [POC](../poc/README.md) | [Pilot](../pilot/README.md) | [Program](../program/README.md) | [Partnership](../partnership/README.md)

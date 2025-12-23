@@ -2,18 +2,7 @@
 
 **Qualify the opportunity — understand fit in 60 minutes**
 
-<table>
-<tr>
-<td width="60%">
-
-</td>
-<td width="40%" align="right">
-
-[M1](../m1/README.md) | [M2](../m2/README.md) | [M3](../m3/README.md) | [Day 1](../day1/README.md) | [POC](../poc/README.md) | [Pilot](../pilot/README.md) | [Program](../program/README.md) | [Partnership](../partnership/README.md)
-
-</td>
-</tr>
-</table>
+**Navigation:** [M1](../m1/README.md) | [M2](../m2/README.md) | [M3](../m3/README.md) | [Day 1](../day1/README.md) | [POC](../poc/README.md) | [Pilot](../pilot/README.md) | [Program](../program/README.md) | [Partnership](../partnership/README.md)
 
 ---
 
@@ -58,46 +47,11 @@ By the end of 60 minutes, you will have complete BANT qualification (Budget, Aut
 **15-45 min: Qualify** — Ask questions, understand BANT, confirm fit  
 **45-60 min: Get M2** — Soft close, permission to shape solution together  
 
-<table>
-<tr>
-<td width="60%">
-
-</td>
-<td width="40%" align="right">
-
-[M1](../m1/README.md) | [M2](../m2/README.md) | [M3](../m3/README.md) | [Day 1](../day1/README.md) | [POC](../poc/README.md) | [Pilot](../pilot/README.md) | [Program](../program/README.md) | [Partnership](../partnership/README.md)
-
-</td>
-</tr>
-</table>
-
-
 ---
 
 **[← Back to Home](../README.md)**
 
-<table>
-<tr>
-<td width="60%">
 
-</td>
-<td width="40%" align="right">
+---
 
-[M1](../m1/README.md) | [M2](../m2/README.md) | [M3](../m3/README.md) | [Day 1](../day1/README.md) | [POC](../poc/README.md) | [Pilot](../pilot/README.md) | [Program](../program/README.md) | [Partnership](../partnership/README.md)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="60%">
-
-</td>
-<td width="40%" align="right">
-
-[M1](../m1/README.md) | [M2](../m2/README.md) | [M3](../m3/README.md) | [Day 1](../day1/README.md) | [POC](../poc/README.md) | [Pilot](../pilot/README.md) | [Program](../program/README.md) | [Partnership](../partnership/README.md)
-
-</td>
-</tr>
-</table>
+**Navigation:** [M1](../m1/README.md) | [M2](../m2/README.md) | [M3](../m3/README.md) | [Day 1](../day1/README.md) | [POC](../poc/README.md) | [Pilot](../pilot/README.md) | [Program](../program/README.md) | [Partnership](../partnership/README.md)
