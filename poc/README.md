@@ -2,6 +2,20 @@
 
 **Validate before you invest — see working results in 30 days**
 
+<table>
+<tr>
+<td width="60%">
+
+</td>
+<td width="40%" align="right">
+
+[M1](../m1/README.md) | [M2](../m2/README.md) | [M3](../m3/README.md) | [Day 1](../day1/README.md) | [POC](../poc/README.md) | [Pilot](../pilot/README.md) | [Program](../program/README.md) | [Partnership](../partnership/README.md)
+
+</td>
+</tr>
+</table>
+
+
 ---
 
 ## Overview
@@ -49,3 +63,16 @@ By the end of 30 days, you will have working prototypes, measured results agains
 ---
 
 **[← Back to Home](../README.md)**
+
+<table>
+<tr>
+<td width="60%">
+
+</td>
+<td width="40%" align="right">
+
+[M1](../m1/README.md) | [M2](../m2/README.md) | [M3](../m3/README.md) | [Day 1](../day1/README.md) | [POC](../poc/README.md) | [Pilot](../pilot/README.md) | [Program](../program/README.md) | [Partnership](../partnership/README.md)
+
+</td>
+</tr>
+</table>

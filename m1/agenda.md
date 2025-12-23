@@ -2,6 +2,19 @@
 
 **Qualify the Opportunity — Discover, Build Trust, Earn Permission**
 
+<table>
+<tr>
+<td width="60%">
+
+</td>
+<td width="40%" align="right">
+
+[M1](../m1/README.md) | [M2](../m2/README.md) | [M3](../m3/README.md) | [Day 1](../day1/README.md) | [POC](../poc/README.md) | [Pilot](../pilot/README.md) | [Program](../program/README.md) | [Partnership](../partnership/README.md)
+
+</td>
+</tr>
+</table>
+
 ---
 
 **Duration:** 60 minutes  
@@ -238,3 +251,19 @@ You'll build trust by demonstrating expertise, qualify the opportunity using BAN
 ---
 
 **Navigation:** [← M1 Home](README.md) | [Main Index](../README.md) | [Next: M1 Playbook →](playbook.md)
+
+---
+<table>
+<tr>
+<td width="60%">
+
+**Last Updated:** December 2025
+
+</td>
+<td width="40%" align="right">
+
+[M1](../m1/README.md) | [M2](../m2/README.md) | [M3](../m3/README.md) | [Day 1](../day1/README.md) | [POC](../poc/README.md) | [Pilot](../pilot/README.md) | [Program](../program/README.md) | [Partnership](../partnership/README.md)
+
+</td>
+</tr>
+</table>

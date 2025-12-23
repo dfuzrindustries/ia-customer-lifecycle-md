@@ -4,6 +4,20 @@
 
 *This playbook contains operational procedures, RACI matrices, scripts, and internal guidance for executing M2 shaping meetings. Not for client distribution.*
 
+
+<table>
+<tr>
+<td width="60%">
+
+</td>
+<td width="40%" align="right">
+
+[M1](../m1/README.md) | [M2](../m2/README.md) | [M3](../m3/README.md) | [Day 1](../day1/README.md) | [POC](../poc/README.md) | [Pilot](../pilot/README.md) | [Program](../program/README.md) | [Partnership](../partnership/README.md)
+
+</td>
+</tr>
+</table>
+
 ---
 
 **Version:** 1.0  
@@ -841,3 +855,18 @@ Output: Risk mitigation section for proposal
 ---
 
 **Navigation:** [← M2 Home](README.md) | [M2 Agenda](agenda.md) | [Main Index](../README.md) | [Next Phase: M3 →](../m3/README.md)
+
+---
+
+<table>
+<tr>
+<td width="60%">
+
+</td>
+<td width="40%" align="right">
+
+[M1](../m1/README.md) | [M2](../m2/README.md) | [M3](../m3/README.md) | [Day 1](../day1/README.md) | [POC](../poc/README.md) | [Pilot](../pilot/README.md) | [Program](../program/README.md) | [Partnership](../partnership/README.md)
+
+</td>
+</tr>
+</table>
