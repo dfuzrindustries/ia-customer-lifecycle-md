@@ -1,6 +1,6 @@
-# PILOT: 60-Day Roadmap
-
 [M1](../m1/README.md) | [M2](../m2/README.md) | [M3](../m3/README.md) | [Day 1](../day1/README.md) | [POC](../poc/README.md) | [Pilot](../pilot/README.md) | [Program](../program/README.md) | [Partnership](../partnership/README.md)
+
+# PILOT: 60-Day Roadmap
 
 **Production Pilot — Deploy, Optimize, Scale**
 
@@ -67,4 +67,3 @@ Deliverable:100% deployment; proven ROI documented; operational playbooks; Year 
 
 ---
 
-[M1](../m1/README.md) | [M2](../m2/README.md) | [M3](../m3/README.md) | [Day 1](../day1/README.md) | [POC](../poc/README.md) | [Pilot](../pilot/README.md) | [Program](../program/README.md) | [Partnership](../partnership/README.md)

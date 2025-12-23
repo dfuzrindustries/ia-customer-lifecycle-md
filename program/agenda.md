@@ -1,6 +1,6 @@
-# Program: Year 1 Roadmap
-
 [M1](../m1/README.md) | [M2](../m2/README.md) | [M3](../m3/README.md) | [Day 1](../day1/README.md) | [POC](../poc/README.md) | [Pilot](../pilot/README.md) | [Program](../program/README.md) | [Partnership](../partnership/README.md)
+
+# Program: Year 1 Roadmap
 
 **Transformation Program — Four 90-Day Cycles**
 
@@ -34,4 +34,3 @@ By Day 365, your organization operates as an agentic enterprise where AI agents 
 
 ---
 
-[M1](../m1/README.md) | [M2](../m2/README.md) | [M3](../m3/README.md) | [Day 1](../day1/README.md) | [POC](../poc/README.md) | [Pilot](../pilot/README.md) | [Program](../program/README.md) | [Partnership](../partnership/README.md)
