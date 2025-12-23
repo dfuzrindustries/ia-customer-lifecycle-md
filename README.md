@@ -2,7 +2,7 @@
 
 **Professional engagement materials for the complete AI transformation journey**
 
-**Navigation:** [M1](m1/README.md) | [M2](m2/README.md) | [M3](m3/README.md) | [Day 1](day1/README.md) | [POC](poc/README.md) | [Pilot](pilot/README.md) | [Program](program/README.md) | [Partnership](partnership/README.md)
+[M1](m1/README.md) | [M2](m2/README.md) | [M3](m3/README.md) | [Day 1](day1/README.md) | [POC](poc/README.md) | [Pilot](pilot/README.md) | [Program](program/README.md) | [Partnership](partnership/README.md)
 
 ---
 
@@ -117,4 +117,4 @@ All materials follow Intelligent Agency brand standards:
 
 ---
 
-**Navigation:** [M1](m1/README.md) | [M2](m2/README.md) | [M3](m3/README.md) | [Day 1](day1/README.md) | [POC](poc/README.md) | [Pilot](pilot/README.md) | [Program](program/README.md) | [Partnership](partnership/README.md)
+[M1](m1/README.md) | [M2](m2/README.md) | [M3](m3/README.md) | [Day 1](day1/README.md) | [POC](poc/README.md) | [Pilot](pilot/README.md) | [Program](program/README.md) | [Partnership](partnership/README.md)
