@@ -1,4 +1,4 @@
-[M1](../m1/README.md) | [M2](../m2/README.md) | [M3](../m3/README.md) | [Day 1](../day1/README.md) | [POC](../poc/README.md) | [Pilot](../pilot/README.md) | [Program](../program/README.md) | [Partnership](../partnership/README.md)
+<small>[M1](../m1/README.md) | [M2](../m2/README.md) | [M3](../m3/README.md) | [Day 1](../day1/README.md) | [POC](../poc/README.md) | [Pilot](../pilot/README.md) | [Program](../program/README.md) | [Partnership](../partnership/README.md)</small>
 
 # Partnership: Ongoing Innovation
 
@@ -28,3 +28,10 @@ The Strategic Partnership phase represents the ongoing stage where the relations
 ---
 
 [M1](../m1/README.md) | [M2](../m2/README.md) | [M3](../m3/README.md) | [Day 1](../day1/README.md) | [POC](../poc/README.md) | [Pilot](../pilot/README.md) | [Program](../program/README.md) | [Partnership](../partnership/README.md)
+
+---
+
+**Version:** 1.0  
+**Last Updated:** 9 January 2026
+
+© 2026 Intelligent Agency. All Rights Reserved.
