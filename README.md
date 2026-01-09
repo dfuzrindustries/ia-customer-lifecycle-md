@@ -25,6 +25,9 @@
 ### Ongoing Partnership
 - **[Partnership](partnership/)** — Co-investment and innovation model
 
+### Workflows & Operations
+- **[Workflow Standards & Tools](workflows/)** — Standards, playbooks, and service blueprint
+
 ---
 
 ## 📋 Document Types
