@@ -21,6 +21,7 @@
 
 - **[Agenda](agenda.md)** — Client-facing workshop brief
 - **[Playbook](playbook.md)** — Internal facilitation guide for IA teams
+- **[Client-Facing Documentation](client-docs/)** — Executive guides and quick references
 
 ---
 
